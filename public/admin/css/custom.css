@@ -1,0 +1,17 @@
+label.error {
+    color:red;
+    font-weight: normal !important;
+    margin-bottom: 0 !important;
+}
+.pointer {
+    cursor: pointer;
+}
+.ml_15 {
+    margin-left: 15px !important;
+}
+.ml_30 {
+    margin-left: 30px !important;
+}
+.ml_45 {
+    margin-left: 45px !important;
+}

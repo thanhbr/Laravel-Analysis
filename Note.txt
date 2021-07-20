@@ -1,0 +1,57 @@
+_ Ngày 19/07/2021
+ * Làm giao diện trang Admin
+  + Làm trang login (Thịnh)			+ 2 point
+  + Làm thanh header 			+ 2 point
+  + Làm thanh menu			+ 3 point
+  + Làm thanh footer (Thịnh)			+ 1 point
+  + Làm trang chủ
+       . phần báo cáo theo tuần, năm		+ 3 point
+       . phần đơn hàng mới		+ 2 point
+       . phần sản phẩm mới		+ 2 point
+       . làm responsive 			+ 5 point
+_ Ngày 20/07/2021
+  * Làm giao diện trang Admin
+  + Làm trang kho (Thịnh)
+       . hiển thị dữ liệu 			+ 3 point
+       . thêm/ sửa dữ liệu			+ 3 point
+       . xóa dữ liệu			+ 1 point
+       . làm responsive			+ 3 point
+  + Làm trang thương hiệu (Thịnh)
+       . hiển thị dữ liệu 			+ 3 point
+       . thêm/ sửa dữ liệu			+ 3 point
+       . xóa dữ liệu			+ 1 point
+       . làm responsive			+ 3 point
+  + Làm trang sản phẩm
+       . hiển thị dữ liệu 			+ 4 point
+       . thêm/ sửa dữ liệu			+ 4 point
+       . xóa dữ liệu			+ 1 point
+  + Làm trang khách hàng
+       . hiển thị dữ liệu 			+ 3 point
+       . thêm/ sửa dữ liệu			+ 3 point
+       . xóa dữ liệu			+ 1 point
+  + Làm trang bình luận (Thịnh)
+       . hiển thị dữ liệu 			+ 3 point
+       . thêm/ sửa dữ liệu			+ 3 point
+       . xóa dữ liệu			+ 1 point
+  + Làm trang nhân viên (Thịnh)
+       . hiển thị dữ liệu 			+ 3 point
+       . thêm/ sửa dữ liệu			+ 3 point
+       . xóa dữ liệu			+ 1 point
+  + Làm trang chức vụ
+       . hiển thị dữ liệu 			+ 3 point
+       . thêm/ sửa dữ liệu			+ 3 point
+       . xóa dữ liệu			+ 1 point
+       . làm responsive			+ 3 point
+  + Làm trang quyền
+       . hiển thị dữ liệu 			+ 3 point
+       . thêm/ sửa dữ liệu			+ 3 point
+       . xóa dữ liệu			+ 1 point
+       . làm responsive			+ 3 point
+  + Phần làm thêm add code vào vào frontend
+       . Trang kho (Thịnh)			+ 2 point
+       . Trang thương hiệu (Thịnh)		+ 2 point
+       . Trang sản phẩm			+ 5 point
+       . Trang khách hàng			+ 3 point
+       . Trang bình luận (Thịnh)			+ 3 point
+       . Trang nhân viên			+ 3 point
+       . Trang quyền 			+ 3 point
